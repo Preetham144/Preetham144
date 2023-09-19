@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing new things
 - 🌱 I’m  Software Engineer
 
-Belief IS everything
+Belief Is everything
 
 <!---
 Preetham144/Preetham144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
