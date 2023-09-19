@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Preetham M 
 - 👀 I’m interested in developing new things
-- 🌱 I’m currently learning Bachelor of Technology in Computer Science and engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently Software Developer
 
 <!---
 Preetham144/Preetham144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
