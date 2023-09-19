@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Preetham M 
 - 👀 I’m interested in developing new things
-- 🌱 I’m currently Software Developer
+- 🌱 I’m  Software Engineer
+
+Belief IS everything
 
 <!---
 Preetham144/Preetham144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
